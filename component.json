@@ -12,7 +12,7 @@
     "component/emitter": "*",
     "component/jquery": "*",
     "component/classes": "*",
-    "component/menu": "*"
+    "timoxley/menu": "*"
   },
   "styles": [
     "dropdown.css"
